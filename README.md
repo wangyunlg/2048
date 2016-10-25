@@ -1,5 +1,6 @@
 # 2048
 仿作的2048小游戏，html+css+jQuery
+![2048](images/2048.png)
 ***
 [在线试玩](https://wangyunlg.github.io/2048/)
 ***
